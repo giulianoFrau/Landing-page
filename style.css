@@ -143,8 +143,8 @@ z-index: 9;
 .info{
     margin: 0 auto;
     margin-top: 70px;
-    width: 1000px;
-    height: 280px;
+    width: 90%;
+    height: 100%;
     border-radius: 10px;
     background-color: #5c881a;
     text-align: center;
@@ -214,7 +214,7 @@ z-index: 9;
 }
 
 
-#checkboxTasto{
+#checkboxTesto{
     margin-top: -50px;
     width: 18px;
     height: 18px;
