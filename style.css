@@ -224,7 +224,7 @@ z-index: 9;
 .sfumatura{
     margin: 0 auto;
     width: 100%;
-    height: 1000px;
+    height: 90%;
     background-color:  #f1f5ed;
     margin-top: -170px;
 }
@@ -250,6 +250,7 @@ z-index: 9;
     background-color: #ffffff;
     background-color: #ffffff;
     margin-left: 25px;
+    margin-top: -20px;
    }
 
    #scrittaSelezione{
