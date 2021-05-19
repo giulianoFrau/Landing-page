@@ -1,0 +1,412 @@
+
+
+/* Style for "LogoIberdr" */
+#iberdrola{
+width: 243px;
+height: 111px;
+
+
+}
+
+/* Style for "Livello 8" */
+#logo{
+    width: 319px;
+    height: 50px;
+    margin-top: 60px;
+}
+
+#elettricista{
+    width: 699px;
+    height: 450px;
+    margin-top: -190px;
+    float: left;
+    opacity: 0.9;
+}
+
+#scelta{
+ 
+    color: #5c881a;
+    font-family: Lato;
+    font-size: 54px;
+    font-weight: 700;
+    
+}
+
+#eco{
+
+    color: #f6a623;
+    font-family: Lato;
+    font-size: 54px;
+    font-weight: 700;   
+}
+
+.scritta1{
+    top:50px;
+    z-index: 9;
+}
+
+.scritta2{
+font-family: Dialog;
+font-size: 37px;
+font-weight: 400;
+color: #5c881a;
+
+
+
+
+}
+
+.luce{
+/* Style for "Rettangolo" */
+width: 250px;
+height: 129px;
+border-radius: 10px;
+border: 3px solid #fedd4d;
+background-color: #f1f5ed;
+margin-top: -170px;
+margin-left: 15px;
+z-index: 9;
+}
+
+.luceGasScritta{
+    color: #050608;
+    font-family: Dialog;
+    font-size: 31px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    text-align: center;
+    text-transform: uppercase;
+    /* Text style for "LUCE" */
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+}
+
+.numeriScritta{
+    color: #5c881a;
+    font-family: "Univers LT Std";
+    font-size: 31px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    text-align: center;
+    text-transform: uppercase;
+    /* Text style for "LUCE" */
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    margin-top: -10px;
+}
+
+.kwtSmc{
+    color: #969795;
+    font-family: Dialog;
+    font-size: 27px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    text-align: center;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    margin-top: -10px;
+    
+}
+
+#icona{
+    width: 38px;
+    height: 59px;
+    margin-top: -95px;
+    margin-left: 20px;
+}
+
+#ultimaScritta{
+    width: 381px;
+    height: 19px;
+    color: #707070;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 18px;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+}
+
+
+.info{
+    margin: 0 auto;
+    margin-top: 70px;
+    width: 1000px;
+    height: 280px;
+    border-radius: 10px;
+    background-color: #5c881a;
+    text-align: center;
+    z-index: 9;
+}
+
+#infoScritta{
+    margin-top: 20px;
+    color: #ffffff;
+    font-family: Lato;
+    font-size: 30px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 40.28px;
+    text-align: center;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    float: center;
+}
+
+.cellulare{
+    width: 439px;
+    height: 78px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 18px;
+    text-align: center;
+}
+
+.chiamata{
+    width: 350px;
+    height: 72px;
+    border-radius: 10px;
+    font-family: Lato;
+    font-size: 30px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 18px;
+    text-align: center;
+    background-color: #fd8a36;
+    color: white;
+}
+
+#checkbox{
+    margin-top: 15px;
+    width: 768px;
+    height: 23px;
+    color: #ffffff;
+    font-family: Lato;
+    font-size: 12px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 12.29px;
+    text-align: left;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+}
+
+
+#checkboxTasto{
+    margin-top: -50px;
+    width: 18px;
+    height: 18px;
+    background-color: #ffffff;
+}
+
+.sfumatura{
+    margin: 0 auto;
+    width: 100%;
+    height: 1000px;
+    background-color:  #f1f5ed;
+    margin-top: -170px;
+}
+
+#scrittaCentro{
+    margin-top:300px; 
+    color: #5c881a;
+    font-family: Dialog;
+    font-size: 48px;
+    font-weight: 400;
+    text-align: center ;
+   }
+
+   #scrittaCentro2{
+       color: #f6a623;;
+   }
+
+   #selezione{
+    width: 254px;
+    height: 253px;
+    box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.08);
+    border: 3px solid #fbe200;
+    background-color: #ffffff;
+    background-color: #ffffff;
+    margin-left: 25px;
+   }
+
+   #scrittaSelezione{
+    margin-top:30px ;
+    color: #707070;
+    font-family: "Lato - Semibold";
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    text-align: center;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+   }
+
+   #scrittaCentro3{
+    margin-top:80px; 
+    color: #5c881a;
+    font-family: Dialog;
+    font-size: 48px;
+    font-weight: 400;
+    text-align: center ;
+   }
+
+   #iconeScelta{
+    width: 65px;
+    height: 52px;
+    margin-left: 38%;
+    margin-top: 50px;
+   }
+
+   #testoIcone{
+    margin-top: 20px;
+    color: #707070;
+    font-family: "Myriad Pro - Semibold";
+    font-size: 24px;
+    font-weight: 500;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    text-align: center;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+   }
+
+   #prova{
+    width: 441px;
+    height: 316px;
+    border-radius: 10px;
+    background-color: #f1f5ed;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 10px;
+   
+   }
+
+   #selezione2{
+    width: 441px;
+    height: 316px;
+    border-radius: 10px;
+    background-color: #f1f5ed;
+    font-family: Lato;
+    margin-left: 5px;
+
+   }
+ 
+   #tariffaLuce{
+    margin-top: 50px;
+    color: #050608;
+    font-family: Lato;
+    font-size: 36px;
+    font-weight: 400;
+    text-align: center;
+   }
+   #tariffaLuceKwt{
+    text-align: center;
+    color: #050608;
+    font-family: Lato;
+    font-size: 36px;
+    font-weight: 400;
+   }
+
+    #buttonLuce{
+    width: 350px;
+    height: 78px;
+    box-shadow: 2px 3px 7px rgba(0, 0, 0, 0.35);
+    border-radius: 10px;
+    border: 3px solid #fedd4d;
+    background-color: #fedd4d;
+    background-color: #fedd4d;
+    text-align: center;
+    font-family: Lato;
+    font-size: 30px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 49.13px;
+    text-align: center;
+    text-transform: uppercase;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;   
+    }
+
+    #buttonGas{      
+    width: 350px;
+    height: 78px;
+    box-shadow: 2px 3px 7px rgba(0, 0, 0, 0.35);
+    border-radius: 10px;
+    background-color: #137ec3;
+    color: #ffffff;
+    font-family: Lato;
+    font-size: 30px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 49.13px;
+    text-align: center;
+    text-transform: uppercase;
+    /* Text style for "SCOPRI DI" */
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    }
+
+   #iconaAttiva{
+    width: 56px;
+    height: 87px;
+    margin-top: -180px;
+    }
+
+   .footer{
+    margin-top:100px;
+    width: 100%;
+    height: 310px;
+    background-color: #f1f5ed;
+    text-align: center;
+   }
+
+   #footerText{
+    color: #444444;
+    font-family: "Myriad Pro";
+    font-size: 24px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 36px;
+    text-align: center;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    margin-top: 20px;
+   }
+
+   #logoFooter{
+    margin-top: 80px;
+   }
