@@ -170,27 +170,28 @@
 }
 
 .cellulare{
-    width: 90%;
+    width:380px;
     height: 78px;
     border-radius: 10px;
     background-color: #ffffff;
     font-family: Lato;
-    font-size: 2vw;
+    font-size: 22px;
     font-weight: 400;
-    font-style: normal;
+    font-style: large;
     letter-spacing: normal;
     line-height: 18px;
     text-align: center;
+    
  
     
 }
 
 .chiamata{
-    width: 70%;
+    width: 300px;
     height: 78px;
     border-radius: 10px;
     font-family: Lato;
-    font-size: 2vw;
+    font-size: 22px;
     font-weight: 400;
     font-style: normal;
     letter-spacing: normal;
@@ -198,6 +199,7 @@
     text-align: center;
     background-color: #fd8a36;
     color: white;
+    margin-top: 15px;
 
    
 }
