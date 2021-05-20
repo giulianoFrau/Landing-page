@@ -3,17 +3,21 @@
 #iberdrola{
     width: 200px;
     height: 111px;
-    text-overflow:ellipsis
+    padding:5px;
 }
 
 /* Style for "Livello 8" */
+
 #logo{
     width: 240px;
     height: 50px;
     margin-top: 60px;
     float: right;
-    text-overflow:ellipsis
-}
+    padding:5px;
+   
+    
+   }
+
 
 #elettricista{
     width: 699px;
