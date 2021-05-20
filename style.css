@@ -1,12 +1,8 @@
-
-/* Style for "LogoIberdr" */
 #iberdrola{
     width: 200px;
     height: 111px;
     padding:5px;
 }
-
-/* Style for "Livello 8" */
 
 #logo{
     width: 240px;
@@ -16,27 +12,22 @@
     padding:5px;
    }
 
-
 #elettricista{
     width: 699px;
     height: 450px;
     float: right;
     opacity: 0.9;
     padding-top: 10%;
-
 }
 
 #scelta{
- 
     color: #5c881a;
     font-family: Lato;
     font-size: 54px;
-    font-weight: 700;
-    
+    font-weight: 700;   
 }
 
 #eco{
-
     color: #f6a623;
     font-family: Lato;
     font-size: 54px;
@@ -56,7 +47,6 @@
 }
 
 .luce{
-    /* Style for "Rettangolo" */
     width: 250px;
     height: 129px;
     border-radius: 10px;
@@ -64,8 +54,6 @@
     background-color: #f1f5ed;
     margin-left: 15px;
     margin-top:5px;
-  
- 
 }
 
 .luceGasScritta{
@@ -78,7 +66,6 @@
     line-height: normal;
     text-align: center;
     text-transform: uppercase;
-    /* Text style for "LUCE" */
     font-style: normal;
     letter-spacing: normal;
     line-height: normal;
@@ -94,7 +81,6 @@
     line-height: normal;
     text-align: center;
     text-transform: uppercase;
-    /* Text style for "LUCE" */
     font-style: normal;
     letter-spacing: normal;
     line-height: normal;
@@ -114,7 +100,6 @@
     letter-spacing: normal;
     line-height: normal;
     margin-top: -10px;
-    
 }
 
 #icona{
@@ -122,11 +107,9 @@
     height: 59px;
     margin-top: -95px;
     float: left;
-    
 }
 
 #ultimaScritta{
-  
     color: #707070;
     font-family: Lato;
     font-size: 24px;
@@ -181,9 +164,6 @@
     letter-spacing: normal;
     line-height: 18px;
     text-align: center;
-    
- 
-    
 }
 
 .chiamata{
@@ -200,8 +180,6 @@
     background-color: #fd8a36;
     color: white;
     margin-top: 15px;
-
-   
 }
 
 #checkbox{
@@ -226,10 +204,7 @@
     text-align: left;
 }
 
-
-
 .sfumatura{
-
     width: 100%;
     height: 930px;
     background-color:  #f1f5ed;
@@ -247,7 +222,7 @@
    }
 
    #scrittaCentro2{
-       color: #f6a623;;
+    color: #f6a623;;
    }
 
    #selezione{
@@ -306,7 +281,6 @@
    }
 
    #riquadroAttiva{
-    
     height: 202px;
     border-radius: 10px;
     background-color: #f1f5ed;
@@ -314,19 +288,16 @@
     margin-left: 70px;
     margin-right: 70px;
     margin-top: 40px;
-
    }
-
-
  
    #tariffaLuce{
-   
     color: #050608;
     font-family: Lato;
     font-size: 30px;
     font-weight: 400;
     text-align: center;
    }
+
    #tariffaLuceKwt{
     text-align: center;
     color: #050608;
@@ -353,8 +324,6 @@
     font-style: normal;
     letter-spacing: normal;
     line-height: normal; 
-
- 
     }
 
     #buttonGas{      
@@ -372,7 +341,6 @@
     line-height: 49.13px;
     text-align: center;
     text-transform: uppercase;
-    /* Text style for "SCOPRI DI" */
     font-style: normal;
     letter-spacing: normal;
     line-height: normal;
