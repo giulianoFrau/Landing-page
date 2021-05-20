@@ -14,8 +14,6 @@
     margin-top: 65px;
     float: right;
     padding:5px;
-   
-    
    }
 
 
@@ -305,14 +303,14 @@
     line-height: normal;
    }
 
-   #prova{
-       height: 250px;
+   #riquadroAttiva{
+    
+    height: 250px;
     border-radius: 10px;
     background-color: #f1f5ed;
     text-align: center;
     margin-left: 10px;
-    margin-top: 10px;
-   
+    margin-top: 40px;
    }
 
 
