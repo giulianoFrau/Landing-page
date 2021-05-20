@@ -224,31 +224,28 @@
 }
 
 #checkbox2{
- 
     color: #ffffff;
-   
-  
     text-align: left;
- 
 }
 
 
 
 .sfumatura{
-    margin: 0 auto;
+
     width: 100%;
-    height: 90%;
+    height: 880px;
     background-color:  #f1f5ed;
-    margin-top: -170px;
+    margin-top:-100px;
 }
 
 #scrittaCentro{
-    margin-top:300px; 
     color: #5c881a;
     font-family: Dialog;
     font-size: 48px;
     font-weight: 400;
     text-align: center ;
+    padding-top:17%;
+    margin-top: 20px;
    }
 
    #scrittaCentro2{
@@ -256,14 +253,12 @@
    }
 
    #selezione{
-    width: 254px;
-    height: 253px;
     box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.08);
     border: 3px solid #fbe200;
     background-color: #ffffff;
     background-color: #ffffff;
-    margin-left: 25px;
-    margin-top: -20px;
+    margin-left: 30px;
+    margin-top: 30px;
    }
 
    #scrittaSelezione{
@@ -275,7 +270,7 @@
     font-style: normal;
     letter-spacing: normal;
     line-height: normal;
-    text-align: center;
+    
     font-style: normal;
     letter-spacing: normal;
     line-height: normal;
@@ -301,7 +296,7 @@
     margin-top: 20px;
     color: #707070;
     font-family: "Myriad Pro - Semibold";
-    font-size: 24px;
+    font-size: 22px;
     font-weight: 500;
     font-style: normal;
     letter-spacing: normal;
