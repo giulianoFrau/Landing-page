@@ -1,14 +1,14 @@
 
 /* Style for "LogoIberdr" */
 #iberdrola{
-    width: 240px;
+    width: 200px;
     height: 111px;
     text-overflow:ellipsis
 }
 
 /* Style for "Livello 8" */
 #logo{
-    width: 270px;
+    width: 240px;
     height: 50px;
     margin-top: 60px;
     float: right;
