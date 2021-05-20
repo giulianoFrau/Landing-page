@@ -1,15 +1,4 @@
 
-.row1 {
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-    margin-right: -38px;
-    margin-left: -15px;
-    max-width: 1500;
-}
-
-
 /* Style for "LogoIberdr" */
 #iberdrola{
     width: 240px;
@@ -147,6 +136,7 @@
     letter-spacing: normal;
     line-height: normal;
     padding-top: 8%;
+    padding-left: 2%;
 }
 
 
@@ -178,7 +168,7 @@
 }
 
 .cellulare{
-    width: 100%;
+    width: 90%;
     height: 78px;
     border-radius: 10px;
     background-color: #ffffff;
@@ -189,14 +179,16 @@
     letter-spacing: normal;
     line-height: 18px;
     text-align: center;
+ 
+    
 }
 
 .chiamata{
-    width: 100%;
-    height: 72px;
+    width: 70%;
+    height: 78px;
     border-radius: 10px;
     font-family: Lato;
-    font-size: 3vw;
+    font-size: 2vw;
     font-weight: 400;
     font-style: normal;
     letter-spacing: normal;
@@ -204,6 +196,8 @@
     text-align: center;
     background-color: #fd8a36;
     color: white;
+
+   
 }
 
 #checkbox{
@@ -233,7 +227,7 @@
 .sfumatura{
 
     width: 100%;
-    height: 880px;
+    height: 900px;
     background-color:  #f1f5ed;
     margin-top:-100px;
 }
