@@ -12,10 +12,8 @@
 
 /* Style for "LogoIberdr" */
 #iberdrola{
-width: 243px;
-height: 111px;
-
-
+    width: 243px;
+    height: 111px;
 }
 
 /* Style for "Livello 8" */
@@ -56,26 +54,22 @@ height: 111px;
 }
 
 .scritta2{
-font-family: Dialog;
-font-size: 37px;
-font-weight: 400;
-color: #5c881a;
-
-
-
-
+    font-family: Dialog;
+    font-size: 37px;
+    font-weight: 400;
+    color: #5c881a;
 }
 
 .luce{
-/* Style for "Rettangolo" */
-width: 250px;
-height: 129px;
-border-radius: 10px;
-border: 3px solid #fedd4d;
-background-color: #f1f5ed;
-margin-top: -170px;
-margin-left: 15px;
-z-index: 9;
+    /* Style for "Rettangolo" */
+    width: 250px;
+    height: 129px;
+    border-radius: 10px;
+    border: 3px solid #fedd4d;
+    background-color: #f1f5ed;
+    margin-top: -170px;
+    margin-left: 15px;
+    z-index: 9;
 }
 
 .luceGasScritta{
@@ -183,7 +177,7 @@ z-index: 9;
     border-radius: 10px;
     background-color: #ffffff;
     font-family: Lato;
-    font-size: 24px;
+    font-size: 2vw;
     font-weight: 400;
     font-style: normal;
     letter-spacing: normal;
@@ -196,7 +190,7 @@ z-index: 9;
     height: 72px;
     border-radius: 10px;
     font-family: Lato;
-    font-size: 30px;
+    font-size: 3vw;
     font-weight: 400;
     font-style: normal;
     letter-spacing: normal;
