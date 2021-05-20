@@ -233,7 +233,7 @@
     width: 100%;
     height: 900px;
     background-color:  #f1f5ed;
-    margin-top:-140px;
+    margin-top:-80px;
 }
 
 #scrittaCentro{
@@ -242,8 +242,8 @@
     font-size: 48px;
     font-weight: 400;
     text-align: center ;
-    padding-top:17%;
-    margin-top: 20px;
+    padding-top:18%;
+
    }
 
    #scrittaCentro2{
