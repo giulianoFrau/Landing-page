@@ -231,7 +231,7 @@
 .sfumatura{
 
     width: 100%;
-    height: 900px;
+    height: 930px;
     background-color:  #f1f5ed;
     margin-top:-80px;
 }
@@ -285,7 +285,7 @@
 
    #iconeScelta{
     width: 65px;
-    height: 52px;
+    height: 72px;
     margin-left: 38%;
     margin-top: 50px;
    }
@@ -307,12 +307,14 @@
 
    #riquadroAttiva{
     
-    height: 250px;
+    height: 202px;
     border-radius: 10px;
     background-color: #f1f5ed;
     text-align: center;
-    margin-left: 10px;
+    margin-left: 70px;
+    margin-right: 70px;
     margin-top: 40px;
+
    }
 
 
@@ -321,7 +323,7 @@
    
     color: #050608;
     font-family: Lato;
-    font-size: 36px;
+    font-size: 30px;
     font-weight: 400;
     text-align: center;
    }
@@ -329,13 +331,13 @@
     text-align: center;
     color: #050608;
     font-family: Lato;
-    font-size: 36px;
+    font-size: 33px;
     font-weight: 400;
    }
 
     #buttonLuce{
     width: 300px;
-    height: 68px;
+    height: 58px;
     box-shadow: 2px 3px 7px rgba(0, 0, 0, 0.35);
     border-radius: 10px;
     border: 3px solid #fedd4d;
@@ -343,7 +345,7 @@
     background-color: #fedd4d;
     text-align: center;
     font-family: Lato;
-    font-size: 30px;
+    font-size: 28px;
     font-weight: 400;
     font-style: normal;
     letter-spacing: normal;
@@ -357,13 +359,13 @@
 
     #buttonGas{      
     width: 300px;
-    height: 68px;
+    height: 58px;
     box-shadow: 2px 3px 7px rgba(0, 0, 0, 0.35);
     border-radius: 10px;
     background-color: #137ec3;
     color: #ffffff;
     font-family: Lato;
-    font-size: 30px;
+    font-size: 28px;
     font-weight: 400;
     font-style: normal;
     letter-spacing: normal;
@@ -378,7 +380,7 @@
     }
 
    #iconaAttiva{
-    width: 56px;
+    width: 46px;
     height: 67px;
     margin-top: -80px;
     float:left;
