@@ -308,27 +308,19 @@
    }
 
    #prova{
-   
+       height: 250px;
     border-radius: 10px;
     background-color: #f1f5ed;
     text-align: center;
-    margin-left: 100px;
+    margin-left: 10px;
     margin-top: 10px;
    
    }
 
-   #selezione2{
-    width: 441px;
-    height: 316px;
-    border-radius: 10px;
-    background-color: #f1f5ed;
-    font-family: Lato;
-    margin-left: 5px;
 
-   }
  
    #tariffaLuce{
-    margin-top: 50px;
+   
     color: #050608;
     font-family: Lato;
     font-size: 36px;
@@ -344,8 +336,8 @@
    }
 
     #buttonLuce{
-    width: 350px;
-    height: 78px;
+    width: 300px;
+    height: 68px;
     box-shadow: 2px 3px 7px rgba(0, 0, 0, 0.35);
     border-radius: 10px;
     border: 3px solid #fedd4d;
@@ -357,17 +349,17 @@
     font-weight: 400;
     font-style: normal;
     letter-spacing: normal;
-    line-height: 49.13px;
-
     text-transform: uppercase;
     font-style: normal;
     letter-spacing: normal;
-    line-height: normal;   
+    line-height: normal; 
+
+ 
     }
 
     #buttonGas{      
-    width: 350px;
-    height: 78px;
+    width: 300px;
+    height: 68px;
     box-shadow: 2px 3px 7px rgba(0, 0, 0, 0.35);
     border-radius: 10px;
     background-color: #137ec3;
@@ -384,12 +376,14 @@
     font-style: normal;
     letter-spacing: normal;
     line-height: normal;
+
     }
 
    #iconaAttiva{
-    width: 36px;
-    height: 57px;
-    margin-top: -180px;
+    width: 56px;
+    height: 67px;
+    margin-top: -80px;
+    float:left;
     }
 
    .footer{
